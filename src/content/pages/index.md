@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: SAAD AHMED
+tagline: Android App Developer
+featuredImage: /assets/image.png
 cta:
   ctaText: Know more
   ctaLink: /about
