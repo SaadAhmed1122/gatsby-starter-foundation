@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: SAAD AHMED
 tagline: Android App Developer
-featuredImage: /assets/picsart_11-05-10.03.54.jpg
+featuredImage: /assets/picsart_11-05-10.03.54-removebg-preview.png
 cta:
   ctaText: Know more
   ctaLink: /about
