@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Saad Ahmed is a android developer with one year experience and gradud
+Saad Ahmed is a android developer with one year experience and graduated from Quiad-e-Awam University Nawabhsah in 2020.
