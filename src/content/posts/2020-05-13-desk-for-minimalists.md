@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Hide Toolbar and Action bar in Android App "
-slug: https://github.com/SaadAhmed1122
+slug: Android
 date: 2020-05-13 12:46
 description: Hide Toolbar and action bar from the android app through java,
   Which shows the full Screen of your app.
